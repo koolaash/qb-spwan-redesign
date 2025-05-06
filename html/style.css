@@ -58,7 +58,6 @@ html, body {
     justify-content: flex-start;
     padding: 3vh;
     box-sizing: border-box;
-    background: radial-gradient(circle at center, rgba(33, 58, 96, 0.3), transparent);
 }
 
 .spawn-locations {
